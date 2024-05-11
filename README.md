@@ -1,4 +1,4 @@
-Hey there! 👋
+"Hey there! 👋
 I'm Nassim, a code wizard in the making! Welcome to my GitHub playground!
 
 About Me ℹ️
@@ -19,7 +19,7 @@ Let's Connect! 📫
 💼 LinkedIn: Nassim FADILI
 ✉️ Email: nassimfadili@outlook.fr
 
-Feel free to explore my repositories and reach out for collaborations or just to geek out about coding! 😄
+Feel free to explore my repositories and reach out for collaborations or just to geek out about coding! 😄"
 
 
 
