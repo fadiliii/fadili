@@ -18,6 +18,7 @@ Let's Connect! 📫
 🐦 Twitter: @nassimfadili
 💼 LinkedIn: Nassim FADILI
 ✉️ Email: nassimfadili@outlook.fr
+
 Feel free to explore my repositories and reach out for collaborations or just to geek out about coding! 😄
 
 
