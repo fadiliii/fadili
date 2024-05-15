@@ -1,5 +1,6 @@
 "Hey there! 👋
-I'm Nassim, a code wizard in the making! Welcome to my GitHub playground!
+I'm Nassim, a code wizard in the making! 
+Welcome to my GitHub playground!
 
 About Me ℹ️
 💻 Self-taught developer on a journey of constant learning
