@@ -1,5 +1,4 @@
 "Hey there! 👋
-I'm Nassim, a code wizard in the making! 
 Welcome to my GitHub playground!
 
 About Me ℹ️
@@ -12,7 +11,7 @@ What I'm Up To 🛠️
 - 💡 Working on cool side projects and contributing to open-source
 
 Languages & Tools 🧰
-- 🖥️ JavaScript, HTML/CSS
+- 🖥️ JavaScript, HTML/CSS, React
 - 🛢️ Node.js, Swagger
 
 Let's Connect! 📫
